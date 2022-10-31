@@ -1,9 +1,4 @@
-<script setup>
-// This starter template is using Vue 3 <script setup> SFCs
-// Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
-import { deals } from './data/data.json';
-
-const data = {
+{
   "deals": [
     {
       "id": 0,
@@ -2021,19 +2016,3 @@ const data = {
     }
   ]
 }
-;
-</script>
-
-<template>
-  <MButton label="Default button 1" />
-</template>
-
-<style scoped>
-@import 'settings-tools/_all-settings';
-@import 'components/_c.datatable'; 
-@import 'components/_c.datatable-tools'; 
-@import 'components/_c.datatable-header';
-@import 'components/_c.datatable-footer';
-@import 'components/_c.datatable-subtable';
-
-</style>
