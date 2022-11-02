@@ -1,0 +1,2018 @@
+{
+  "deals": [
+    {
+      "id": 0,
+      "name": "Deal test 0",
+      "startDate": "2015-12-20T11:45:02.483Z",
+      "endDate": "2019-11-07T16:40:48.227Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 0"
+    },
+    {
+      "id": 1,
+      "name": "Deal test 1",
+      "startDate": "2014-04-27T10:21:13.234Z",
+      "endDate": "2020-05-25T04:49:11.085Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 1"
+    },
+    {
+      "id": 2,
+      "name": "Deal test 2",
+      "startDate": "2014-06-11T08:33:54.172Z",
+      "endDate": "2019-08-04T09:43:51.960Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 2"
+    },
+    {
+      "id": 3,
+      "name": "Deal test 3",
+      "startDate": "2015-02-21T04:13:42.853Z",
+      "endDate": "2016-06-11T14:30:57.801Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 3"
+    },
+    {
+      "id": 4,
+      "name": "Deal test 4",
+      "startDate": "2012-04-26T08:57:47.048Z",
+      "endDate": "2017-11-12T08:12:49.706Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 4"
+    },
+    {
+      "id": 5,
+      "name": "Deal test 5",
+      "startDate": "2015-07-12T13:39:02.717Z",
+      "endDate": "2021-09-02T07:09:41.391Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 5"
+    },
+    {
+      "id": 6,
+      "name": "Deal test 6",
+      "startDate": "2012-03-12T23:27:07.676Z",
+      "endDate": "2020-03-20T09:44:57.021Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 6"
+    },
+    {
+      "id": 7,
+      "name": "Deal test 7",
+      "startDate": "2015-10-18T16:48:24.280Z",
+      "endDate": "2019-06-20T17:32:59.230Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 7"
+    },
+    {
+      "id": 8,
+      "name": "Deal test 8",
+      "startDate": "2015-02-20T00:44:13.780Z",
+      "endDate": "2016-08-16T00:41:13.319Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 8"
+    },
+    {
+      "id": 9,
+      "name": "Deal test 9",
+      "startDate": "2014-06-18T10:36:24.168Z",
+      "endDate": "2016-07-09T08:48:22.059Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 9"
+    },
+    {
+      "id": 10,
+      "name": "Deal test 10",
+      "startDate": "2014-02-18T06:29:17.889Z",
+      "endDate": "2019-07-08T19:32:52.966Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 10"
+    },
+    {
+      "id": 11,
+      "name": "Deal test 11",
+      "startDate": "2012-03-03T08:58:41.196Z",
+      "endDate": "2019-12-30T20:03:00.502Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 11"
+    },
+    {
+      "id": 12,
+      "name": "Deal test 12",
+      "startDate": "2013-04-25T01:48:43.969Z",
+      "endDate": "2016-04-10T23:13:02.075Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 12"
+    },
+    {
+      "id": 13,
+      "name": "Deal test 13",
+      "startDate": "2013-01-09T02:51:44.531Z",
+      "endDate": "2018-03-11T01:56:57.815Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 13"
+    },
+    {
+      "id": 14,
+      "name": "Deal test 14",
+      "startDate": "2014-02-02T07:41:36.470Z",
+      "endDate": "2018-04-06T07:23:15.489Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 14"
+    },
+    {
+      "id": 15,
+      "name": "Deal test 15",
+      "startDate": "2014-12-10T07:17:17.738Z",
+      "endDate": "2018-03-05T19:26:43.268Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 15"
+    },
+    {
+      "id": 16,
+      "name": "Deal test 16",
+      "startDate": "2013-06-03T23:03:52.975Z",
+      "endDate": "2017-03-01T09:15:37.366Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 16"
+    },
+    {
+      "id": 17,
+      "name": "Deal test 17",
+      "startDate": "2013-02-12T22:26:14.311Z",
+      "endDate": "2021-04-10T22:43:08.600Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 17"
+    },
+    {
+      "id": 18,
+      "name": "Deal test 18",
+      "startDate": "2015-09-23T04:28:47.260Z",
+      "endDate": "2021-01-31T21:04:10.889Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 18"
+    },
+    {
+      "id": 19,
+      "name": "Deal test 19",
+      "startDate": "2014-10-18T23:30:02.214Z",
+      "endDate": "2021-01-06T02:07:08.172Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 19"
+    },
+    {
+      "id": 20,
+      "name": "Deal test 20",
+      "startDate": "2012-08-28T15:34:37.622Z",
+      "endDate": "2018-05-17T16:46:31.467Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 20"
+    },
+    {
+      "id": 21,
+      "name": "Deal test 21",
+      "startDate": "2012-11-25T20:22:41.073Z",
+      "endDate": "2018-03-22T13:14:00.642Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 21"
+    },
+    {
+      "id": 22,
+      "name": "Deal test 22",
+      "startDate": "2015-08-09T05:21:46.755Z",
+      "endDate": "2021-07-21T12:24:52.606Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 22"
+    },
+    {
+      "id": 23,
+      "name": "Deal test 23",
+      "startDate": "2013-12-26T14:04:41.046Z",
+      "endDate": "2021-02-17T23:19:52.890Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 23"
+    },
+    {
+      "id": 24,
+      "name": "Deal test 24",
+      "startDate": "2015-09-20T06:12:18.032Z",
+      "endDate": "2020-11-04T12:42:19.503Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 24"
+    },
+    {
+      "id": 25,
+      "name": "Deal test 25",
+      "startDate": "2016-01-15T12:35:07.260Z",
+      "endDate": "2018-09-02T19:57:39.219Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 25"
+    },
+    {
+      "id": 26,
+      "name": "Deal test 26",
+      "startDate": "2013-05-17T21:03:23.245Z",
+      "endDate": "2017-03-05T16:47:42.924Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 26"
+    },
+    {
+      "id": 27,
+      "name": "Deal test 27",
+      "startDate": "2015-09-12T16:39:51.129Z",
+      "endDate": "2019-09-25T21:14:11.599Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 27"
+    },
+    {
+      "id": 28,
+      "name": "Deal test 28",
+      "startDate": "2012-07-29T00:55:24.677Z",
+      "endDate": "2016-09-24T23:55:49.332Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 28"
+    },
+    {
+      "id": 29,
+      "name": "Deal test 29",
+      "startDate": "2013-12-01T07:31:21.418Z",
+      "endDate": "2021-04-15T17:39:24.469Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 29"
+    },
+    {
+      "id": 30,
+      "name": "Deal test 30",
+      "startDate": "2015-05-30T14:19:18.697Z",
+      "endDate": "2018-03-04T22:41:37.252Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 30"
+    },
+    {
+      "id": 31,
+      "name": "Deal test 31",
+      "startDate": "2013-09-22T14:09:57.302Z",
+      "endDate": "2017-08-21T11:26:58.414Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 31"
+    },
+    {
+      "id": 32,
+      "name": "Deal test 32",
+      "startDate": "2012-11-14T22:46:24.449Z",
+      "endDate": "2018-12-13T08:54:42.420Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 32"
+    },
+    {
+      "id": 33,
+      "name": "Deal test 33",
+      "startDate": "2013-04-01T18:19:44.959Z",
+      "endDate": "2018-03-25T23:32:03.811Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 33"
+    },
+    {
+      "id": 34,
+      "name": "Deal test 34",
+      "startDate": "2013-11-15T17:40:37.642Z",
+      "endDate": "2020-03-03T19:41:40.292Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 34"
+    },
+    {
+      "id": 35,
+      "name": "Deal test 35",
+      "startDate": "2014-07-26T18:16:14.066Z",
+      "endDate": "2019-08-01T08:35:13.461Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 35"
+    },
+    {
+      "id": 36,
+      "name": "Deal test 36",
+      "startDate": "2013-07-10T04:00:39.441Z",
+      "endDate": "2018-11-10T20:04:59.092Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 36"
+    },
+    {
+      "id": 37,
+      "name": "Deal test 37",
+      "startDate": "2015-03-22T10:55:45.137Z",
+      "endDate": "2020-05-12T21:50:48.038Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 37"
+    },
+    {
+      "id": 38,
+      "name": "Deal test 38",
+      "startDate": "2013-01-17T01:01:07.386Z",
+      "endDate": "2018-06-18T09:43:14.015Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 38"
+    },
+    {
+      "id": 39,
+      "name": "Deal test 39",
+      "startDate": "2013-10-29T00:58:00.976Z",
+      "endDate": "2021-04-24T09:11:14.336Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 39"
+    },
+    {
+      "id": 40,
+      "name": "Deal test 40",
+      "startDate": "2015-07-06T12:36:50.168Z",
+      "endDate": "2018-07-14T23:12:57.808Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 40"
+    },
+    {
+      "id": 41,
+      "name": "Deal test 41",
+      "startDate": "2015-03-16T07:15:36.236Z",
+      "endDate": "2017-12-21T19:09:24.073Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 41"
+    },
+    {
+      "id": 42,
+      "name": "Deal test 42",
+      "startDate": "2012-05-20T20:37:59.122Z",
+      "endDate": "2017-03-02T06:01:39.701Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 42"
+    },
+    {
+      "id": 43,
+      "name": "Deal test 43",
+      "startDate": "2012-09-16T10:48:34.189Z",
+      "endDate": "2017-04-20T09:22:54.461Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 43"
+    },
+    {
+      "id": 44,
+      "name": "Deal test 44",
+      "startDate": "2013-01-01T22:15:39.136Z",
+      "endDate": "2020-07-21T21:00:38.640Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 44"
+    },
+    {
+      "id": 45,
+      "name": "Deal test 45",
+      "startDate": "2014-08-31T13:07:32.805Z",
+      "endDate": "2017-02-26T07:50:40.258Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 45"
+    },
+    {
+      "id": 46,
+      "name": "Deal test 46",
+      "startDate": "2012-11-13T15:35:49.593Z",
+      "endDate": "2020-12-16T20:20:16.916Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 46"
+    },
+    {
+      "id": 47,
+      "name": "Deal test 47",
+      "startDate": "2014-05-10T16:18:01.384Z",
+      "endDate": "2017-01-06T10:01:08.979Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 47"
+    },
+    {
+      "id": 48,
+      "name": "Deal test 48",
+      "startDate": "2014-11-08T00:00:20.101Z",
+      "endDate": "2020-04-14T20:32:39.303Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 48"
+    },
+    {
+      "id": 49,
+      "name": "Deal test 49",
+      "startDate": "2015-09-15T18:19:29.953Z",
+      "endDate": "2018-09-17T10:13:46.472Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 49"
+    },
+    {
+      "id": 50,
+      "name": "Deal test 50",
+      "startDate": "2013-02-01T08:41:15.793Z",
+      "endDate": "2016-08-18T08:17:20.516Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 50"
+    },
+    {
+      "id": 51,
+      "name": "Deal test 51",
+      "startDate": "2014-06-13T20:12:12.313Z",
+      "endDate": "2021-03-05T09:46:35.228Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 51"
+    },
+    {
+      "id": 52,
+      "name": "Deal test 52",
+      "startDate": "2012-10-31T23:24:42.128Z",
+      "endDate": "2017-07-22T22:21:09.279Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 52"
+    },
+    {
+      "id": 53,
+      "name": "Deal test 53",
+      "startDate": "2016-01-28T13:05:09.837Z",
+      "endDate": "2019-11-05T01:18:36.772Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 53"
+    },
+    {
+      "id": 54,
+      "name": "Deal test 54",
+      "startDate": "2012-02-08T13:14:37.680Z",
+      "endDate": "2019-09-30T07:21:28.866Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 54"
+    },
+    {
+      "id": 55,
+      "name": "Deal test 55",
+      "startDate": "2015-08-08T20:04:23.812Z",
+      "endDate": "2016-07-23T07:14:37.019Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 55"
+    },
+    {
+      "id": 56,
+      "name": "Deal test 56",
+      "startDate": "2016-01-22T22:05:19.167Z",
+      "endDate": "2021-10-10T02:25:11.112Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 56"
+    },
+    {
+      "id": 57,
+      "name": "Deal test 57",
+      "startDate": "2014-03-16T10:14:57.896Z",
+      "endDate": "2021-06-27T18:04:15.371Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 57"
+    },
+    {
+      "id": 58,
+      "name": "Deal test 58",
+      "startDate": "2014-11-01T00:40:21.053Z",
+      "endDate": "2016-03-20T09:34:15.030Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 58"
+    },
+    {
+      "id": 59,
+      "name": "Deal test 59",
+      "startDate": "2014-03-22T15:41:25.061Z",
+      "endDate": "2018-06-23T16:25:39.611Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 59"
+    },
+    {
+      "id": 60,
+      "name": "Deal test 60",
+      "startDate": "2012-09-09T05:46:11.394Z",
+      "endDate": "2018-06-06T17:50:34.239Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 60"
+    },
+    {
+      "id": 61,
+      "name": "Deal test 61",
+      "startDate": "2012-06-30T21:35:09.907Z",
+      "endDate": "2021-03-28T06:44:11.198Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 61"
+    },
+    {
+      "id": 62,
+      "name": "Deal test 62",
+      "startDate": "2012-03-21T19:39:57.241Z",
+      "endDate": "2018-08-27T12:27:49.755Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 62"
+    },
+    {
+      "id": 63,
+      "name": "Deal test 63",
+      "startDate": "2013-03-06T19:26:41.994Z",
+      "endDate": "2020-05-29T22:38:18.361Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 63"
+    },
+    {
+      "id": 64,
+      "name": "Deal test 64",
+      "startDate": "2015-12-27T02:50:47.185Z",
+      "endDate": "2016-04-27T05:55:03.068Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 64"
+    },
+    {
+      "id": 65,
+      "name": "Deal test 65",
+      "startDate": "2013-04-01T11:07:33.842Z",
+      "endDate": "2020-10-19T20:04:41.453Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 65"
+    },
+    {
+      "id": 66,
+      "name": "Deal test 66",
+      "startDate": "2014-01-30T00:16:27.914Z",
+      "endDate": "2017-05-28T11:54:17.970Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 66"
+    },
+    {
+      "id": 67,
+      "name": "Deal test 67",
+      "startDate": "2012-12-03T02:10:15.910Z",
+      "endDate": "2021-03-20T10:02:41.822Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 67"
+    },
+    {
+      "id": 68,
+      "name": "Deal test 68",
+      "startDate": "2015-11-11T04:16:41.048Z",
+      "endDate": "2018-01-11T01:45:25.761Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 68"
+    },
+    {
+      "id": 69,
+      "name": "Deal test 69",
+      "startDate": "2012-11-26T05:59:46.793Z",
+      "endDate": "2018-11-05T09:47:49.645Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 69"
+    },
+    {
+      "id": 70,
+      "name": "Deal test 70",
+      "startDate": "2015-01-12T07:36:45.308Z",
+      "endDate": "2019-09-06T13:52:25.037Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 70"
+    },
+    {
+      "id": 71,
+      "name": "Deal test 71",
+      "startDate": "2013-01-03T13:11:43.669Z",
+      "endDate": "2016-11-11T03:28:35.377Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 71"
+    },
+    {
+      "id": 72,
+      "name": "Deal test 72",
+      "startDate": "2015-07-23T20:42:58.987Z",
+      "endDate": "2020-11-28T06:01:33.382Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 72"
+    },
+    {
+      "id": 73,
+      "name": "Deal test 73",
+      "startDate": "2014-03-05T02:23:41.844Z",
+      "endDate": "2016-12-03T06:17:07.986Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 73"
+    },
+    {
+      "id": 74,
+      "name": "Deal test 74",
+      "startDate": "2015-07-15T03:30:05.454Z",
+      "endDate": "2021-05-09T09:49:10.339Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 74"
+    },
+    {
+      "id": 75,
+      "name": "Deal test 75",
+      "startDate": "2015-02-15T12:47:32.334Z",
+      "endDate": "2018-08-30T05:17:31.658Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 75"
+    },
+    {
+      "id": 76,
+      "name": "Deal test 76",
+      "startDate": "2015-05-19T15:49:41.525Z",
+      "endDate": "2016-11-16T08:57:39.276Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 76"
+    },
+    {
+      "id": 77,
+      "name": "Deal test 77",
+      "startDate": "2015-11-01T06:07:11.743Z",
+      "endDate": "2016-10-15T03:18:55.710Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 77"
+    },
+    {
+      "id": 78,
+      "name": "Deal test 78",
+      "startDate": "2015-04-16T22:43:01.093Z",
+      "endDate": "2021-02-17T02:17:42.470Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 78"
+    },
+    {
+      "id": 79,
+      "name": "Deal test 79",
+      "startDate": "2014-01-19T07:12:07.291Z",
+      "endDate": "2020-01-04T17:53:57.782Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 79"
+    },
+    {
+      "id": 80,
+      "name": "Deal test 80",
+      "startDate": "2014-12-31T21:57:47.617Z",
+      "endDate": "2018-07-19T08:14:22.618Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 80"
+    },
+    {
+      "id": 81,
+      "name": "Deal test 81",
+      "startDate": "2012-12-30T16:06:37.143Z",
+      "endDate": "2020-10-22T00:50:44.774Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 81"
+    },
+    {
+      "id": 82,
+      "name": "Deal test 82",
+      "startDate": "2013-03-04T11:06:19.031Z",
+      "endDate": "2021-01-23T04:00:08.395Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 82"
+    },
+    {
+      "id": 83,
+      "name": "Deal test 83",
+      "startDate": "2012-08-24T03:05:13.586Z",
+      "endDate": "2017-03-10T09:35:33.232Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 83"
+    },
+    {
+      "id": 84,
+      "name": "Deal test 84",
+      "startDate": "2014-01-01T03:25:05.502Z",
+      "endDate": "2019-01-03T06:26:01.320Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 84"
+    },
+    {
+      "id": 85,
+      "name": "Deal test 85",
+      "startDate": "2014-01-16T19:34:14.521Z",
+      "endDate": "2019-09-05T19:58:07.722Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 85"
+    },
+    {
+      "id": 86,
+      "name": "Deal test 86",
+      "startDate": "2014-08-11T23:59:04.456Z",
+      "endDate": "2020-10-18T23:35:02.519Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 86"
+    },
+    {
+      "id": 87,
+      "name": "Deal test 87",
+      "startDate": "2014-01-27T20:04:13.667Z",
+      "endDate": "2020-07-01T07:55:47.379Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 87"
+    },
+    {
+      "id": 88,
+      "name": "Deal test 88",
+      "startDate": "2014-10-30T11:33:50.739Z",
+      "endDate": "2016-05-09T22:14:10.371Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 88"
+    },
+    {
+      "id": 89,
+      "name": "Deal test 89",
+      "startDate": "2013-05-14T02:07:08.782Z",
+      "endDate": "2021-03-19T05:05:17.117Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 89"
+    },
+    {
+      "id": 90,
+      "name": "Deal test 90",
+      "startDate": "2013-07-11T16:14:03.391Z",
+      "endDate": "2016-02-10T14:57:24.350Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 90"
+    },
+    {
+      "id": 91,
+      "name": "Deal test 91",
+      "startDate": "2013-03-15T17:11:25.903Z",
+      "endDate": "2021-03-03T14:14:40.297Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 91"
+    },
+    {
+      "id": 92,
+      "name": "Deal test 92",
+      "startDate": "2012-12-03T20:08:56.463Z",
+      "endDate": "2018-11-02T20:06:34.351Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 92"
+    },
+    {
+      "id": 93,
+      "name": "Deal test 93",
+      "startDate": "2012-02-06T11:37:24.074Z",
+      "endDate": "2018-05-22T11:49:50.105Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 93"
+    },
+    {
+      "id": 94,
+      "name": "Deal test 94",
+      "startDate": "2014-01-01T23:34:34.860Z",
+      "endDate": "2020-01-14T08:43:27.825Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 94"
+    },
+    {
+      "id": 95,
+      "name": "Deal test 95",
+      "startDate": "2014-12-02T21:45:30.928Z",
+      "endDate": "2019-02-01T02:10:04.657Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 95"
+    },
+    {
+      "id": 96,
+      "name": "Deal test 96",
+      "startDate": "2012-03-13T21:53:07.818Z",
+      "endDate": "2016-02-02T07:44:44.750Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 96"
+    },
+    {
+      "id": 97,
+      "name": "Deal test 97",
+      "startDate": "2014-01-17T07:50:38.862Z",
+      "endDate": "2017-07-04T13:25:21.031Z",
+      "status": { "code": "CLOSE" },
+      "stock": "Stock 97"
+    },
+    {
+      "id": 98,
+      "name": "Deal test 98",
+      "startDate": "2014-02-06T22:27:54.826Z",
+      "endDate": "2019-10-30T07:19:23.165Z",
+      "status": { "code": "CALCULATED" },
+      "stock": "Stock 98"
+    },
+    {
+      "id": 99,
+      "name": "Deal test 99",
+      "startDate": "2014-02-22T20:15:10.913Z",
+      "endDate": "2017-08-28T00:18:20.625Z",
+      "status": { "code": "ACTIVE" },
+      "stock": "Stock 99"
+    }
+  ],
+  "samples": [
+    {
+      "refLm": 79924915,
+      "supplierId": 208929,
+      "buId": 1,
+      "label": "2 PLINTHES 7.5X90 SPANIA BLANC",
+      "department": "6",
+      "ean": 8434459062845,
+      "spp": 4.95,
+      "scp": 5.882234,
+      "intercompanyPrice": 7.714462,
+      "delta": 1.832228,
+      "deltaPercentage": 31.148506,
+      "productCostBreakdowns": [
+        {
+          "label": "Coût de stockage",
+          "value": 0.018824,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût transport amont",
+          "value": 0.156,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.07227,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Prestation surcoût palette",
+          "value": 0.006298,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.186061,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût d'entrée",
+          "value": 0.015333,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.043779,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Prix fournisseur",
+          "value": 4.95,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 0.235897,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût transport aval",
+          "value": 0.03,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        }
+      ]
+    },
+    {
+      "refLm": 79205336,
+      "supplierId": 204108,
+      "buId": 1,
+      "label": "P.VIN/INT UNI PLUME GRISE PAILLETTE",
+      "department": "12",
+      "ean": 5411012401177,
+      "spp": 7.78,
+      "scp": 10.718539,
+      "intercompanyPrice": 12.360739,
+      "delta": 1.6422,
+      "deltaPercentage": 15.321118,
+      "productCostBreakdowns": [
+        {
+          "label": "Prix fournisseur",
+          "value": 7.78,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Coût de stockage",
+          "value": 0.118235,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 0.730769,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.090784,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût d'entrée",
+          "value": 1.266667,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.080696,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.113588,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût transport aval",
+          "value": 0.18,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        }
+      ]
+    },
+    {
+      "refLm": 69675592,
+      "supplierId": 203712,
+      "buId": 1,
+      "label": "ADAPTATEUR VIDE 12X20 BLANC",
+      "department": "3",
+      "ean": 4012740872119,
+      "spp": 1.76,
+      "scp": 2.016461,
+      "intercompanyPrice": 3.964533,
+      "delta": 1.948072,
+      "deltaPercentage": 96.608465,
+      "productCostBreakdowns": [
+        {
+          "label": "Coût de stockage",
+          "value": 0.012868,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.010799,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût d'entrée",
+          "value": 0.019167,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.015426,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 0.110577,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût transport aval",
+          "value": 0.01,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.025696,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Prix fournisseur",
+          "value": 1.76,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        }
+      ]
+    },
+    {
+      "refLm": 79924943,
+      "supplierId": 208929,
+      "buId": 1,
+      "label": "2 PLINTHES 7.5X90 SPANIA BRUN FONCE",
+      "department": "6",
+      "ean": 8434459062821,
+      "spp": 4.95,
+      "scp": 7.227734,
+      "intercompanyPrice": 9.019703,
+      "delta": 1.791969,
+      "deltaPercentage": 24.792958,
+      "productCostBreakdowns": [
+        {
+          "label": "Prix fournisseur",
+          "value": 4.95,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Prestation surcoût palette",
+          "value": 0.020756,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Coût d'entrée",
+          "value": 0.766667,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût transport amont",
+          "value": 0.156,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.07227,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 0.657143,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût transport aval",
+          "value": 0.09,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.053342,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût de stockage",
+          "value": 0.026824,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.226701,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        }
+      ]
+    },
+    {
+      "refLm": 69676040,
+      "supplierId": 203712,
+      "buId": 1,
+      "label": "2 ANGLES PLAT 12X20 BLANC",
+      "department": "3",
+      "ean": 4012740872065,
+      "spp": 1.03,
+      "scp": 1.154517,
+      "intercompanyPrice": 3.123409,
+      "delta": 1.968892,
+      "deltaPercentage": 170.538156,
+      "productCostBreakdowns": [
+        {
+          "label": "Coût de stockage",
+          "value": 0.003217,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Prix fournisseur",
+          "value": 1.03,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.015038,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 0.055288,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.006207,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût d'entrée",
+          "value": 0.004792,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.008867,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        }
+      ]
+    },
+    {
+      "refLm": 72357166,
+      "supplierId": 207130,
+      "buId": 1,
+      "label": "CADRE LILA INSP BLANC 13X18CM",
+      "department": "12",
+      "ean": 3276000208174,
+      "spp": 0.49,
+      "scp": 0.637494,
+      "intercompanyPrice": 2.617478,
+      "delta": 1.979984,
+      "deltaPercentage": 310.588649,
+      "productCostBreakdowns": [
+        {
+          "label": "Coût d'entrée",
+          "value": 0.009583,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 0.070769,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.004761,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.005654,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût transport aval",
+          "value": 0.01,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        },
+        {
+          "label": "Prix fournisseur",
+          "value": 0.49,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Prestation surcoût palette",
+          "value": 0.002858,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.007154,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût de stockage",
+          "value": 0.016699,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        }
+      ]
+    },
+    {
+      "refLm": 81970140,
+      "supplierId": 209954,
+      "buId": 1,
+      "label": "SLIMLINE LED 26.5W 4000K 100CM",
+      "department": "13",
+      "ean": 3276000439943,
+      "spp": 18.72,
+      "scp": 20.755684,
+      "intercompanyPrice": 22.255017,
+      "delta": 1.499333,
+      "deltaPercentage": 7.223723,
+      "productCostBreakdowns": [
+        {
+          "label": "Coût transport aval",
+          "value": 0.09,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.273312,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.15639,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Coût de stockage",
+          "value": 0.123167,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Prix fournisseur",
+          "value": 18.72,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Coût d'entrée",
+          "value": 0.127778,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.410524,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 0.353846,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        }
+      ]
+    },
+    {
+      "refLm": 80137789,
+      "supplierId": 208171,
+      "buId": 1,
+      "label": "TONDEUSE STERWINS 320EP4 1200W 32CM",
+      "department": "9",
+      "ean": 3276000362692,
+      "spp": 30.46,
+      "scp": 38.341076,
+      "intercompanyPrice": 39.239935,
+      "delta": 0.898859,
+      "deltaPercentage": 2.344377,
+      "productCostBreakdowns": [
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Prix fournisseur",
+          "value": 30.46,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Coût de stockage",
+          "value": 1.898706,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.27862,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût transport aval",
+          "value": 1.8,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        },
+        {
+          "label": "Coût d'entrée",
+          "value": 0.766667,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.313448,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.444716,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 1.277778,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        }
+      ]
+    },
+    {
+      "refLm": 82088775,
+      "supplierId": 206408,
+      "buId": 1,
+      "label": "REMIX2 PTE PIVOT VF/BR77.5/80.5CM",
+      "department": "7",
+      "ean": 3276000636892,
+      "spp": 87.11,
+      "scp": 104.500963,
+      "intercompanyPrice": 102.676321,
+      "delta": -1.824642,
+      "deltaPercentage": -1.746052,
+      "productCostBreakdowns": [
+        {
+          "label": "Coût transport aval",
+          "value": 2.58,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 1.06991,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 2.705882,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Prix fournisseur",
+          "value": 87.11,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 1.271806,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût d'entrée",
+          "value": 0.302632,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût de stockage",
+          "value": 4.857974,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.778117,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        }
+      ]
+    },
+    {
+      "refLm": 81989526,
+      "supplierId": 203490,
+      "buId": 1,
+      "label": "SERVITEUR ANEKO BAMBOU",
+      "department": "7",
+      "ean": 3276000482994,
+      "spp": 14.17,
+      "scp": 18.238559,
+      "intercompanyPrice": 19.597965,
+      "delta": 1.359406,
+      "deltaPercentage": 7.453473,
+      "productCostBreakdowns": [
+        {
+          "label": "Coût transport aval",
+          "value": 0.58,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 0.638889,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Coût d'entrée",
+          "value": 0.383333,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Prix fournisseur",
+          "value": 14.17,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.132525,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.206882,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.480403,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût de stockage",
+          "value": 1.005933,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        }
+      ]
+    },
+    {
+      "refLm": 72532320,
+      "supplierId": 209233,
+      "buId": 1,
+      "label": "CX 20X40 BEAUTY BLANC 1.6M2",
+      "department": "6",
+      "ean": 8021224533398,
+      "spp": 8.16,
+      "scp": 13.191363,
+      "intercompanyPrice": 14.784576,
+      "delta": 1.593213,
+      "deltaPercentage": 12.077699,
+      "productCostBreakdowns": [
+        {
+          "label": "Frais Gestion",
+          "value": 0.119136,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.09707,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Prix fournisseur",
+          "value": 8.16,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Coût de stockage",
+          "value": 0.198144,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Coût transport aval",
+          "value": 0.38,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.230541,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût transport amont",
+          "value": 0.9512,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 1.381818,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût d'entrée",
+          "value": 1.266667,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        }
+      ]
+    },
+    {
+      "refLm": 82003904,
+      "supplierId": 200208,
+      "buId": 1,
+      "label": "CX QUARTZITE 45X45 GRIS MOYEN 1.72M2",
+      "department": "6",
+      "ean": 8011634574838,
+      "spp": 8.4,
+      "scp": 12.429589,
+      "intercompanyPrice": 14.010564,
+      "delta": 1.580975,
+      "deltaPercentage": 12.719448,
+      "productCostBreakdowns": [
+        {
+          "label": "Coût d'entrée",
+          "value": 0.095833,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.12264,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 0.836364,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût de stockage",
+          "value": 0.377454,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Prix fournisseur",
+          "value": 8.4,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.090362,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.384036,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût transport aval",
+          "value": 0.33,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        },
+        {
+          "label": "Coût transport amont",
+          "value": 1.373875,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        }
+      ]
+    },
+    {
+      "refLm": 82010985,
+      "supplierId": 207768,
+      "buId": 1,
+      "label": "*REGLETTE ETANCHE T8 1X36W IP65",
+      "department": "13",
+      "ean": 3276000600954,
+      "spp": 6.78,
+      "scp": 8.25831,
+      "intercompanyPrice": 9.817773,
+      "delta": 1.559463,
+      "deltaPercentage": 18.883561,
+      "productCostBreakdowns": [
+        {
+          "label": "Coût d'entrée",
+          "value": 0.063889,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 0.136905,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.098988,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.060171,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.157948,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Prix fournisseur",
+          "value": 6.78,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Coût de stockage",
+          "value": 0.339872,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût transport aval",
+          "value": 0.18,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        }
+      ]
+    },
+    {
+      "refLm": 70595756,
+      "supplierId": 203757,
+      "buId": 1,
+      "label": "ENROULEUR CHAN 30M HO7RNF 3G1.5MM² LEXMA",
+      "department": "3",
+      "ean": 3276005595927,
+      "spp": 22.06,
+      "scp": 25.957872,
+      "intercompanyPrice": 27.085156,
+      "delta": 1.127284,
+      "deltaPercentage": 4.342745,
+      "productCostBreakdowns": [
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 0.638889,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.135971,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Prix fournisseur",
+          "value": 22.06,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.194244,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût de stockage",
+          "value": 0.780643,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.322076,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût transport aval",
+          "value": 0.57,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        },
+        {
+          "label": "Coût d'entrée",
+          "value": 0.383333,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        }
+      ]
+    },
+    {
+      "refLm": 70524440,
+      "supplierId": 203490,
+      "buId": 1,
+      "label": "POUBELLE 5L STEPPY GRIS ZINGUE 1",
+      "department": "7",
+      "ean": 3276005475472,
+      "spp": 2.84,
+      "scp": 3.719977,
+      "intercompanyPrice": 5.587791,
+      "delta": 1.867814,
+      "deltaPercentage": 50.210365,
+      "productCostBreakdowns": [
+        {
+          "label": "Prix fournisseur",
+          "value": 2.84,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 0.176923,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût d'entrée",
+          "value": 0.095833,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Coût de stockage",
+          "value": 0.198335,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.027078,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût transport aval",
+          "value": 0.11,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.098158,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.041464,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        }
+      ]
+    }
+  ]
+}
